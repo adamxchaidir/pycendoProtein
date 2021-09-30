@@ -113,3 +113,5 @@ p = p.properties(
     width=alt.Step(25) # controls width of bar
 )
 st.write(p)
+
+st.subheader('Pycendo Project Beta Version - Chaidir Adam 2021')
