@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run pycendoProtein.py
+web: sh setup.sh && streamlit run pycendo-Protein.py
